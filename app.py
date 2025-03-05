@@ -64,5 +64,13 @@ if st.button("Submit"):
 # Display conversation history
 st.write("### Conversation History")
 session_history = st.session_state.session_manager.get_session_history(session_id)
+i=0
 for message in session_history.messages:
-    st.write(f"**{message.type}:** {message.content}")
+    # st.write(message.type)
+    if i%2==0:
+        st.markdown(f"**_User:_**  {message.content}", unsafe_allow_html=True)
+        i+=1
+    else:
+        st.markdown(f"**_Legal Assistant:_** {message.content}", unsafe_allow_html=True)
+        i+=1
+

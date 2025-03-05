@@ -1,0 +1,38 @@
+2025-03-05 19:34:06,909 - INFO - Creating vector store...
+2025-03-05 19:34:14,536 - INFO - Documents loaded successfully
+2025-03-05 19:34:14,587 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-05 19:34:14,812 - INFO - Collection icl-docs already exists
+2025-03-05 19:34:14,820 - INFO - Creating workflow...
+2025-03-05 19:34:14,820 - INFO - Initialization complete.
+2025-03-05 19:34:29,408 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:34:35,281 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already submitted to Indian court jurisdiction. This happens if the foreign government has either sued someone in India, trades in India, or owns property in India, and
+2025-03-05 19:35:02,462 - INFO - Processing query: in bulletin points
+2025-03-05 19:35:04,963 - INFO - Query processed successfully. Response: The provided text deals with the required financial reports for a company issuing a prospectus (an investment offering), not the steps involved in filing a lawsuit in India.  It's not law-related in the sense of court procedures but rather relates to financial regulations.
+
+In simple terms, if a company
+2025-03-05 19:38:45,078 - INFO - Creating vector store...
+2025-03-05 19:38:52,635 - INFO - Documents loaded successfully
+2025-03-05 19:38:52,683 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-05 19:38:52,917 - INFO - Collection icl-docs already exists
+2025-03-05 19:38:52,926 - INFO - Creating workflow...
+2025-03-05 19:38:52,926 - INFO - Initialization complete.
+2025-03-05 19:39:03,300 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:39:08,767 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already accepted the authority of an Indian court, such as by suing someone in India, doing business in India, or owning property in India.  Your lawsuit
+2025-03-05 19:39:49,776 - INFO - Creating vector store...
+2025-03-05 19:39:57,069 - INFO - Documents loaded successfully
+2025-03-05 19:39:57,077 - INFO - Collection icl-docs already exists
+2025-03-05 19:39:57,085 - INFO - Creating workflow...
+2025-03-05 19:39:57,094 - INFO - Initialization complete.
+2025-03-05 19:40:02,376 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:40:07,878 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already submitted to Indian court jurisdiction, such as by suing someone in India, trading in India, or owning property in India.  Your lawsuit must be related
+2025-03-05 19:41:28,217 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:41:30,822 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already submitted to Indian court jurisdiction. This happens if the foreign government has either sued someone in India, trades in India, or owns property in India, and
+2025-03-05 19:41:39,835 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:41:42,167 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already submitted to Indian court jurisdiction, such as by suing someone in India, trading in India, or owning property in India.  Your lawsuit must be related
+2025-03-05 19:42:19,210 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:42:21,647 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already submitted to Indian court jurisdiction, such as by suing someone in India, trading in India, or owning property in India.  Your lawsuit must be related
+2025-03-05 19:43:07,436 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:43:09,938 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already submitted to Indian court jurisdiction. This happens if the foreign government has either sued someone in India, trades in India, or owns property in India, and
+2025-03-05 19:43:52,395 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
+2025-03-05 19:43:54,793 - INFO - Query processed successfully. Response: To sue a foreign government in India, you need the Indian government's written permission.  They'll only agree if the foreign government has already submitted to Indian court jurisdiction, such as by suing someone in India, trading in India, or owning property in India.  Your lawsuit must be related
+2025-03-05 19:44:52,696 - INFO - Processing query: What are the steps involved in filing a lawsuit in India?
