@@ -12,7 +12,7 @@ from config import GOOGLE_API_KEY
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-pro",
     google_api_key=GOOGLE_API_KEY,
-    max_tokens=60,
+    max_tokens=500,
     temperature=0.1
 )
 
