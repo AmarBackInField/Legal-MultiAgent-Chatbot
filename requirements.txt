@@ -7,4 +7,3 @@ langchain-google-genai
 chromadb
 PyPDF2
 langgraph
-pysqlite3
