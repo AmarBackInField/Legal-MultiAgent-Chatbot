@@ -6,8 +6,9 @@ import os
 import logging
 import sys
 
-import chromadb
+import chromadb.api
 
+chromadb.api.client.SharedSystemClient.clear_system_cache()
 headers = {
     "User-Agent": os.environ.get("USER_AGENT", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"),
 }
@@ -15,7 +16,7 @@ headers = {
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-chromadb.api.client.SharedSystemClient.clear_system_cache()
+# chromadb.api.client.SharedSystemClient.clear_system_cache()
 
 # Initialize Embeddings
 embeddings = GoogleGenerativeAIEmbeddings(
