@@ -61,7 +61,7 @@ if st.button("Submit"):
     else:
         st.write("Please enter a query.")
 
-# Display conversation history
+# Display Conversation history
 st.write("### Conversation History")
 session_history = st.session_state.session_manager.get_session_history(session_id)
 i=0

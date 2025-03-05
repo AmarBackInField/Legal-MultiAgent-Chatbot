@@ -73,7 +73,7 @@ def vectordb(docs_list=None):
             logger.error(f"Failed to load documents: {e}")
             raise
 
-    # Collection configuration
+    # Collection Configuration
     collection_name = "icl-docs"
     
     try:
