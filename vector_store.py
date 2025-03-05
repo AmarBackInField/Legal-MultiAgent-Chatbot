@@ -4,6 +4,9 @@ from config import GOOGLE_API_KEY
 from document_loader import load_documents
 import os
 import logging
+import sys
+import pysqlite3
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import chromadb
 
 headers = {
